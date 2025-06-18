@@ -1,0 +1,9 @@
+# 주피터 노트북 자동 생성 파일
+.ipynb_checkpoints/
+
+# 파이썬 바이트코드
+__pycache__/
+*.pyc
+
+# macOS에서 자동 생성되는 시스템 파일
+.DS_Store
